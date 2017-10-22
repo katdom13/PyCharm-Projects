@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intro00.iml" filepath="$PROJECT_DIR$/.idea/Intro00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pandas_Numpy_Test/.idea/Pandas_Numpy_Test.iml" filepath="$PROJECT_DIR$/../Pandas_Numpy_Test/.idea/Pandas_Numpy_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QLearning/.idea/QLearning.iml" filepath="$PROJECT_DIR$/../QLearning/.idea/QLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QLearningMaze/.idea/QLearningMaze.iml" filepath="$PROJECT_DIR$/../QLearningMaze/.idea/QLearningMaze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReinforcementCatch/.idea/ReinforcementCatch.iml" filepath="$PROJECT_DIR$/../ReinforcementCatch/.idea/ReinforcementCatch.iml" />
+    </modules>
+  </component>
+</project>
